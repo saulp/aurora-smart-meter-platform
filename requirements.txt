@@ -1,1 +1,3 @@
-[requirements.txt content from artifact above]
+Flask==3.0.0
+psycopg2-binary==2.9.9
+python-dateutil==2.8.2
