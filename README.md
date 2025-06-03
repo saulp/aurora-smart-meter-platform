@@ -1,6 +1,6 @@
 # Aurora Smart Meter Management Platform
 
-A production-ready Smart Meter Management platform powered by AWS Aurora Serverless v2, featuring real Toronto utility data and industry-standard equipment.
+A production-ready Smart Meter Management platform powered by AWS Aurora Serverless v2, with simulated Toronto utility data and industry-standard equipment.
 
 **🌐 Live Demo:** https://aws.saul-perdomo.workers.dev/
 
